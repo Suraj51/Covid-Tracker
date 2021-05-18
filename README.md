@@ -4,8 +4,8 @@
 
 # Sceenshots(Mobile)
 <img src="https://i.ibb.co/gjNnp5H/Screenshot-20210518-203138-Chrome.jpg" width=300 height=400/>
-# Description
 
+# Description
 Covid tracker using React and chart.js fetching data from API
 
 ## Packages used:
